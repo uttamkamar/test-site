@@ -1,0 +1,40 @@
+ul.nav {
+  /* width: 60%; */
+  height: 48px;
+  background: #e8edf5;
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  border-radius: 10px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+ul.nav li {
+  border-radius: 8px;
+  padding: 10px 20px;
+  line-height: 1;
+  display: inherit;
+}
+
+.tabtext {
+  padding-left: 10px;
+}
+/* ul.nav li:nth-child(2) {
+  border-radius: 0;
+  border-bottom-right-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+ul.nav li:hover {
+  background: rgba(50, 224, 196, 0.15);
+} */
+ul.nav li.active {
+  color: #ffff;
+  background: #008545;
+}
+
+.FirstTab p,
+.SecondTab p {
+  font-size: 2rem;
+  text-align: center;
+}

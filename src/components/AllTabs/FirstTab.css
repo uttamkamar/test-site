@@ -1,0 +1,29 @@
+.fcontainer {
+  margin-top: 30px;
+}
+
+.fcontainer h1 {
+  font-size: 30px;
+  font-weight: 700;
+  padding-bottom: 30px;
+  border-bottom: 2px solid #e9e9e9;
+}
+
+.fcontainer img {
+  width: 300px;
+  height: 300px;
+  margin-top: 40px;
+  border-radius: 10px;
+}
+
+.txtarea p {
+  font-size: 16px;
+  color: #808080;
+  line-height: 1.8em;
+  padding: 5px 0px;
+}
+.txtarea h2 {
+  font-size: 30px;
+  font-weight: 600;
+  padding: 5px 0px;
+}
